@@ -10,7 +10,7 @@ This project is a beginner SQL database simulation for a small supermarket. It w
 
 - Defining relational tables with appropriate data types
 
-- Using PRIMARY KEY, IDENTITY, and FOREIGN KEY constraints
+- Using PRIMARY KEY and FOREIGN KEY constraints
 
 - Inserting structured data into tables
 
